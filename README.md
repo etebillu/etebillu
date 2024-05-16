@@ -1,7 +1,7 @@
 #sobre mim **pedro**
 ## *estranho*
 - 👋 olá, eu ou @etebillu
-- :+1: o meu [e-mail].(pedro.prestes.oliveira@ecola.pr.gov.br)
+- :+1: o meu [e-mail].(pedro.prestes.oliveira@escola.pr.gov.br)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -9,7 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-etebillu/etebillu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ![](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+ ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white)
+![](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=Jasmine&logoColor=white)
+![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+- ![](https://media.tenor.com/anyzNMtKmNAAAAAj/ka-chow-lightning-mcqueen.gif)
