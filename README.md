@@ -1,5 +1,5 @@
 #sobre mim **pedro**
-## *estranho*
+## *sla*
 - 👋 olá, eu ou @etebillu
 - :+1: o meu [e-mail].(pedro.prestes.oliveira@escola.pr.gov.br)
 - 👀 I’m interested in ...
